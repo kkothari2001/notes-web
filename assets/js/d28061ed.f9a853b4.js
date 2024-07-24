@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknotes_web=self.webpackChunknotes_web||[]).push([[473],{7707:e=>{e.exports=JSON.parse('{"categoryGeneratedIndex":{"title":"Server Side Rendering","slug":"/ssr","permalink":"/ssr","sidebar":"tutorialSidebar","navigation":{"previous":{"title":"Welcome to my notes!","permalink":"/"},"next":{"title":"first","permalink":"/ssr/what"}}}}')}}]);
