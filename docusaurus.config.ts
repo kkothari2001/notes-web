@@ -75,7 +75,7 @@ const config: Config = {
           to: "/",
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Kush Kothari. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

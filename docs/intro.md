@@ -10,3 +10,7 @@ This is my attempt to make my notes available to myself and other people over th
 I like to take notes as I read up about various things within or beyond tech. While I forsee I will focus on tech in the near future, I might expand the scope of these notes to reviews, poems and... well... who knows?
 
 For suggesting changes or improvements, feel free to add them [here](https://github.com/kkothari2001/notes-web/issues).
+
+:::info
+All notes are written (rather haphazardly) in a code-editor with limited spell checking abilities. Please bear with any spelling mistakes 🙂
+:::

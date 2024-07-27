@@ -1,5 +1,5 @@
 ---
-slug: /next/intro-to-next
+slug: intro-to-next
 ---
 
 # Intro to Next.js
