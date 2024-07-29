@@ -36,11 +36,10 @@ With **open layers** we have more freedom to cross layers. A module on Layer A c
 - Seperation of concerns helps us understand and deal with each layer seperately.
 - Reduced complexity as you no longer have to think about the entire codebase while making changes, just the layers directly above and underneath it.
 - Code becomes more extensible
-- If we deploy each layer of the application seperately, we can scale each layer up and down seperately. This increases throughput and availabilty and even security (cause firewalls can be installed between layers).
 - Easier to reuse certain functionality as all functionality of the lower layer can be accessed by the one above it.
 
 ## Disadvantages of a layered architecture
 
-- For many of the changes (Especially when you're adding new features), all layers need to be changed. This is especially an issue if the layers are deployed (and/or versioned) seperately.
+- For many of the changes (Especially when you're adding new features), all layers need to be changed. This is especially an issue if the layers are versioned seperately.
 - Extra code for intercommunication of layers.
-- Sometimes, splitting the application into multiple layers has more monetary costs and may affect performance due to the time required for inter-layer communication.
+- Sometimes, splitting the application into multiple layers may affect performance due to the time required for inter-layer communication.

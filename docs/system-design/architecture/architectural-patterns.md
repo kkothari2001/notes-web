@@ -11,7 +11,7 @@ Just like one might have seen a lot of different diagrams in a software engineer
 
 1. Module (or static) structures
 2. Components and connectors (or dynamic) structures
-3. Deployment structures
+3. Deployment (allocation) structures
 
 ### Module Structures
 
@@ -101,3 +101,4 @@ In the next few pages, we will discuss the various architecture patterns, with t
 They are listed here:
 
 - [Layered Arch](./layered.md)
+- [N-Tier Arch](./n-tier.md)
