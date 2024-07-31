@@ -103,3 +103,4 @@ They are listed here:
 - [Layered Arch](./layered.md)
 - [N-Tier Arch](./n-tier.md)
 - [MVC Arch](./mvc.md)
+- [MVVM Arch](./mvvm.md)
