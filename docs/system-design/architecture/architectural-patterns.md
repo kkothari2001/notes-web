@@ -104,3 +104,4 @@ They are listed here:
 - [N-Tier Arch](./n-tier.md)
 - [MVC Arch](./mvc.md)
 - [MVVM Arch](./mvvm.md)
+- [Client-Server Arch](./client-server.md)
