@@ -105,3 +105,4 @@ They are listed here:
 - [MVC Arch](./mvc.md)
 - [MVVM Arch](./mvvm.md)
 - [Client-Server Arch](./client-server.md)
+- [Peer to Peer Arch](./p2p.md)
