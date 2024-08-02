@@ -106,3 +106,4 @@ They are listed here:
 - [MVVM Arch](./mvvm.md)
 - [Client-Server Arch](./client-server.md)
 - [Peer to Peer Arch](./p2p.md)
+- [Broker Arch](./broker.md)
