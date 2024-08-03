@@ -107,3 +107,4 @@ They are listed here:
 - [Client-Server Arch](./client-server.md)
 - [Peer to Peer Arch](./p2p.md)
 - [Broker Arch](./broker.md)
+- [Pipe and Filter Arch](./pipe-and-filter.md)
