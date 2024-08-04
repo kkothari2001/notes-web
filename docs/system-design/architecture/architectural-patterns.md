@@ -108,3 +108,4 @@ They are listed here:
 - [Peer to Peer Arch](./p2p.md)
 - [Broker Arch](./broker.md)
 - [Pipe and Filter Arch](./pipe-and-filter.md)
+- [Event Driven Arch](./event-driven.md)
