@@ -109,3 +109,4 @@ They are listed here:
 - [Broker Arch](./broker.md)
 - [Pipe and Filter Arch](./pipe-and-filter.md)
 - [Event Driven Arch](./event-driven.md)
+- [Publisher Subscriber Arch](./pub-sub.md)
