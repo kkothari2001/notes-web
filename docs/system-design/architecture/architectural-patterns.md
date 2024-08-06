@@ -110,3 +110,4 @@ They are listed here:
 - [Pipe and Filter Arch](./pipe-and-filter.md)
 - [Event Driven Arch](./event-driven.md)
 - [Publisher Subscriber Arch](./pub-sub.md)
+- [Hexagonal Arch](./hexagonal.md)
