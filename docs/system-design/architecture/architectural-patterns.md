@@ -111,3 +111,4 @@ They are listed here:
 - [Event Driven Arch](./event-driven.md)
 - [Publisher Subscriber Arch](./pub-sub.md)
 - [Hexagonal Arch](./hexagonal.md)
+- [Serverless Arch](./serverless.md)
