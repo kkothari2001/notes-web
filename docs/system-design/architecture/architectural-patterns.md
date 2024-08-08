@@ -112,3 +112,4 @@ They are listed here:
 - [Publisher Subscriber Arch](./pub-sub.md)
 - [Hexagonal Arch](./hexagonal.md)
 - [Serverless Arch](./serverless.md)
+- [Monolithic Arch](./monolithic.md)
