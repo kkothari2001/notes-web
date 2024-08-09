@@ -113,3 +113,4 @@ They are listed here:
 - [Hexagonal Arch](./hexagonal.md)
 - [Serverless Arch](./serverless.md)
 - [Monolithic Arch](./monolithic.md)
+- [Microservices Arch](./microservices.md)
