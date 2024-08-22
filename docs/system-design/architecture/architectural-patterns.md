@@ -114,3 +114,4 @@ They are listed here:
 - [Serverless Arch](./serverless.md)
 - [Monolithic Arch](./monolithic.md)
 - [Microservices Arch](./microservices.md)
+- [Microfrontends Arch](./microfrontends.md)
