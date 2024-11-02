@@ -1,0 +1,8 @@
+{
+  "label": "Spring",
+  "link": {
+    "slug": "/backend/spring",
+    "type": "generated-index",
+    "description": "Notes on the Spring Framework"
+  }
+}
