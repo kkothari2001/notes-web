@@ -1,0 +1,8 @@
+{
+  "label": "Database",
+  "link": {
+    "slug": "/db",
+    "type": "generated-index",
+    "description": "Notes on databases"
+  }
+}

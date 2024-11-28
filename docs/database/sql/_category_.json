@@ -1,0 +1,8 @@
+{
+  "label": "SQL",
+  "link": {
+    "slug": "/db/sql",
+    "type": "generated-index",
+    "description": "Notes on SQL"
+  }
+}
