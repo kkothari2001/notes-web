@@ -63,3 +63,26 @@ Some common ways to allocate your savings are (this is not an exhaustive list):
 - Retirement fund
 
 We look at some of them in detail in the following subtopics and others in even more detail in future topics.
+
+### Emergency Fund
+
+Something that often stops people from investing long-term is the fear of an emergency. Things like medical emergencies and death of an earning family member may be taken care of by insurance (we will look at that soon), but there are somethings that might require reserve money at a short notice like a job loss. This is where an emergency fund is helpful.
+
+To form an emergency fund you need to know two things:
+
+1. How much do you spend in a month? Include rent, EMIs, fees, insurance premiums...basically everything.
+2. How many months of protection do you need? A good estimate will be 6 months to 2 years depending on your situation. If you do not have a lot of responsiblities (or are one of multiple earners in your family), then 6 months might be enough. But if you're supporting many people, then going upto 2 years of emergency fund is advisable.
+
+So one of the first things you should do is start building your emergency fund based on the above 2 parameters. That should be the only focus of the money in your investment account. When an emergency does arrive, once you're back to earning money, you should focus on rebuilding your emergency fund.
+
+But where do you put it?
+
+The ideal place to put it would be somewhere where the money is making some sort of interest (atleast close to beating inflation, if not beating it) while also being easy to access without any loss in value. Just keeping it in your bank's saving deposit is not a good idea...as it just doesn't provide you with any noticeable returns.
+
+Bank Fixed Deposits (FDs) are a good idea. Especially since we can now simply withdraw money using a few taps on our phones. Make sure the FDs you create are granular enough that allows you to only utilise some part of the emergency fund if that is the scenario. Some banks offer flexi-FDs to allow you to withdraw only the amount you need, rather than losing the interest on the entire fund amount.
+
+Short term debt funds are mutual funds that can be used if you understand mutual funds well. I don't (at the time of writing). They are said to offer better returns, be more liquid and have greater tax benefits than FDs.
+
+:::warning[TODO]
+Finish this part when you understand MFs better
+:::
