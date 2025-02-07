@@ -212,7 +212,75 @@ Like a health insurance policy, there are some factors you need to consider when
 
 2. Claims experience: Just like health insurance, it is important to research the claims experiences and claims statistics before buying a policy. This helps you guage how trustworthy a company is. If something around 95% of the claims are being paid, that is usually good enough.
 
-In summary, the life insurance policy is meant to replace your income for your family in case of your untimely death. It is an important product to buy till you reach financial independance in your life. But along with buying life insurance for yourself, you should have a good enough plan for your family's finances in the case of your demise.
+In summary, the life insurance policy is meant to replace your income for your family in case of your untimely death. It is an important product to buy till you reach financial independance in your life. But along with buying life insurance for yourself, you should have a good enough plan for your family's finances in the case of your demise. After your insurances, you can start looking at investing. Since it's a big topic, we cover it as a larger heading.
+
+## Investing
+
+Chalo we can finally start investing. But before we talk strategies or tips, first we need to lay some groundwork on getting the pyschology of investing drilled into our brains.
+
+### First, some psychology
+
+When we think about investing, we think about finding some amazing stock tip and investing a lot of money into it. While this may have been how some people made money, this is not reproducible by most people. Also, most people think they need large sums of money saved to even start investing. The existence of such common opinions and tendencies are exactly the reason why we need to first lay the base of investing through our mindset.
+
+There are a few questions that usually arise when one considers investing for the first time:
+
+- What if some emergency arises and all my money is tied up in my investments?
+- What if I make a mistake in investing and lose all my money?
+- How am I going to invest if I lack the knowledge about the various terms and concepts of the market?
+- Where do I even get the money to invest? I don't have such a large sum at hand.
+- What are things I should keep in mind when investing?
+
+#### What if some emergency arises and all my money is tied up in my investments?
+
+Well, thats exactly what the emergency fund and insurances are for. They provide a great peace of mind when investing, allowing us to not worry about future emergencies.
+
+#### What if I make a mistake in investing and lose all my money?
+
+Hey, you've just started learning, haven't you? Mistakes are bound to happen. That's why you should start small but stay steady. Knowing more about the various financial products in the market is going to help you greatly reduce these mistakes. You are going to get better, I trust you! :)
+
+#### How am I going to invest if I lack the knowledge about the various terms and concepts of the market?
+
+Like I just said, you'll learn. Might take some time and some trial-and-error, but you'll learn. As I write this, my knowledge is also growing.
+
+#### Where do I even get the money to invest? I don't have such a large sum at hand.
+
+You don't need a large sum of money to start. Through the law of compounding, even small sums of money can grow exponentially with time. This also means, you should start soon, to take full advantage of compounding, irrespective of the money you can invest.
+
+#### What are things I should keep in mind when investing?
+
+:::important
+These points are... well... important!
+:::
+Here are a few:
+
+- The financial sector benefits from you not knowing enough about the products that they sell you. That way they can sell you bad financial products and make a lot of money through commisions they get from your investments.
+- Each financial product you buy must have a specific purpose attached to it. Do not go for market hype, especially if you do not understand it very well. This point will help in the future when you encounter an investment medium that is new to you (and probably not present in this handbook), but it pretty hyped up.
+
+:::warning[TODO]
+I'm sure I'll find a few more points to add here down the line.
+:::
+
+### Next, your goals
+
+Why are you investing? To save and multiply your money. Why do you want money? To live comfortably and to have sufficient money at hand for the various expenses that come up in your life. So in order to determine how much money you need to save and how to invest the same, you need a firm understanding of the expenses you are going to incur. This helps sketch out your money goals.
+
+It helps to divide your upcoming expenses into 3 sections (I will also give a few examples that would suit a 24yo guy like me):
+
+1. Short-term: Expenses that you are likely to incur in the next 2-3 years. Examples could be things like buying a car, further education.
+2. Medium-term: Expenses that you are likely to incur in the next 3-7 years. Examples could be things like marriage, buying a house, kids, their education.
+3. Long-term: Expenses that are going to take longer than that. Examples could be things like retirement, maybe a education fund for your kid's foreign education.
+
+But why are we doing this? Why are we splitting our expenses into time periods of when they are likely to occur. There are two main reasons:
+
+1. It helps us estimate our expenses well. You probably already know about inflation and understand that the expenses you have listed above are probably going to be larger in magnitude a few years from now due to inflation. For example, knowing how much marriage costs today will help you figure out how much you'll need when you get married. Just put the amount in one of those fancy "inflation-calculators" that tell you the cost adjusted for inflation.
+
+2. It helps you understand how to structure your investments. Each investment medium likely has its pros, cons and an ideal time period. Some products are safe long-term but risky on the short-term. Some are the opposite. As was mentioned before each product you buy must satisfy some need you have. So for your short-term needs, invest in things that have a shorter ideal time period and vice versa. And learn to always ask about the ideal holding time of a product when you are researching it.
+
+### Then, some terms
+
+## Equity
+
+## Mutual Funds
 
 ## Random miscellaneous tips
 
