@@ -8,7 +8,7 @@ sidebar_position: 1
 
 Notes on earning, saving, investing and spending money.
 
-:::important
+:::warning
 This handbook is a collection of notes and ideas for my own learning and is not meant to be taken as financial advice. The content may be incomplete or inaccurate. Please don’t rely on it for decisions—always consult a professional. I’m not responsible for any outcomes from using this information.
 :::
 
@@ -278,7 +278,80 @@ But why are we doing this? Why are we splitting our expenses into time periods o
 
 ### Then, some terms
 
+As was already mentioned, the financial industry thrives on you not knowing enough about finance. They deal in all these complex terms that are bound to confuse you. They do this so they can collect larger commision after suggesting that you invest in products that benefit them more than you. So in this section we demystify many of the common terms used in the industry so it will be easier for you to understand products and make better investment decisions.
+
+#### Asset Classes
+
+Asset classes are the broad divisions in which the investment products can be classified. There are 3 main asset classes:
+
+- Debt: The products which are based on the borrowing and lending of money. Eg FDs, bonds
+
+- Equity: The products which are based on the ownership of businesses. Eg stocks
+
+- Real assets: The products which you can see and touch. Eg property, gold.
+
+#### Debt
+
+The products that come under debt are the ones that are based on the borrowing and lending of money. So when you lend someone money, you choose to postpone consumption and take on risk (of the borrower not returning the money), so for these factors the borrower pays you back with interest. Usually the more risk you take, the higher the interest you recieve.
+
+For example, if the government is borrowing money from you in the form of government bonds, they usually provide you with relatively low but almost-guaranteed returns. Similarly corporate bonds give you higher returns because it is riskier to deal with companies than to deal with the government.
+
+FDs also function as debt, since the bank is essentially borrowing money from you for some time, while it uses the same money to provide loans for higher rates of interest than what you are getting for your FD. FDs can be treated as some sort of benchmark to compare products (in terms of risk and reward) as they are some-what safe and also the most commonly used investment product here in India.
+
+A small list of debt products is:
+
+- Provident Fund
+- Public Provident Fund
+- Fixed Deposits
+- Corporate Deposits
+- Various kinds of bonds
+
+There is 2 major roles of debt in your portfolio:
+
+1. To provide you with money on short notice, like for emergencies or for expenses that are upcoming in a short while.
+2. To provide stability to your long-term investments, like for your retirement fund or kids' college fund.
+
+#### Gold
+
+:::info[todo]
+I think I'll write this after understanding gold for a longer term period. As of right now (May 2024 - Feb 2025), I've had quite good returns with gold but what I'm reading about it depicts a very different scenario. Will have to come back with some experience.
+:::
+
+#### Real Estate
+
+Real estate is another favourite amongst the public in India. This is because we have all heard of the profits people have made over the years due to the rising housing prices. Houses people bought for a few lakhs years ago are now being sold be multiple crores. That is why there is always a lot of interest in buying real estate as an investment. However, there are a lot of unseen factors that people don't consider when making this decision. Some of them are:
+
+- Real-estate is not liquid, you can't just sell quickly. Neither can you partially liquidate it and sell only part of a house.
+
+- There are a lot of hidden costs like cost of maintainence, property taxes, brokerage and insurance.
+
+- Many things can go wrong when owning a house, the title can be disputed, tenants can refuse to leave, builders run away with the money. These add to the risk of owning the land.
+
+One should think of these points before considering buying property as it not as easy-going as some people make it seem. Things have gone wrong for a lot of people, so please exercise a lot of caution if you decide to invest in real estate anyway.
+
+:::info
+The rest of the terms like equity, mutual funds require a lot of depth to cover, so they are covered as seperate topics in this handbook.
+:::
+
 ## Equity
+
+There are 2 major ways in which companies can finance themselves — Debt and Equity. In debt, companies borrow money for financing their operations and once the agreed upon time is over, pay back the original amount with interest.
+
+> In equity, company sell their share of ownership on the company for money. The investors who invest in company equity earn money by selling the same share for a higher value in the future (when the company is worth more). When it comes to public equity, a person can buy these shares in the company. If the price of these shares go up, the person can sell them in the future for profit.
+
+Some terms:
+
+- When a company wants to sell their shares to the general public, they can get **listed** on the market through an **IPO (Initial Public Offering)**.
+- Transactions of shares are done through a **stock-exchange like NSE & BSE**.
+- The rules of the stock-market are set and governed by a capital market **regulator**. The capital market regulator in India is the **Securities and Exchange Board of India (SEBI)**. They set up the rules that must be followed by the companies providing stock to the public.
+- Since it is often difficult to get a gist of the market or a particular **sector** by just looking at individual stocks, indices were introduced. **A market index is like a basket of stocks**. The value of the basket goes up and down as the values of the individual stocks in the basket varies. Indices are good ways of measuring the overall performance of the market and are helpful in making investment decisions. Eg. Sensex and Nifty 50.
+- **Market Capitalization (or Market Cap)** is the total value of the company as calculated by the number of shares times the price of the individual shares. There are broadly 3 types of companies as divided by their market cap:
+
+  1. Large-cap: Top 100 companies in terms of market capitalization.
+  2. Mid-cap: Companies that rank between 101 to 250 by market cap.
+  3. Small-cap: Companies that rank more than 250 by market cap.
+
+Investing in each of these types of companies should be done for different reasons as there are differences in the way these stocks perform over the long-term.
 
 ## Mutual Funds
 
